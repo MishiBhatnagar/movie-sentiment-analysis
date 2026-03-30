@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+
+# Data files (large)
+data/*.csv
+!data/README.md
+
+# Output files
+output/*.csv
+output/*.npy
+output/*.pkl
+!output/figures/*.png
+
+# Virtual environments
+venv/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
