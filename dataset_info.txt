@@ -1,0 +1,5 @@
+File: imdb_reviews.csv
+Total reviews: 24
+Positive: 12
+Negative: 12
+Average words: 168.5

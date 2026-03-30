@@ -1,0 +1,7 @@
+Model,Approach,Accuracy,Precision,Recall,F1-Score
+Naive Bayes (Simple BoW),"Bag-of-Words
+100 features",0.7566666666666667,0.7692307692307693,0.7333333333333333,0.7508532423208191
+SVM (Advanced TF-IDF),"TF-IDF + Trigram
+RBF Kernel",0.5,0.5,1.0,0.6666666666666666
+Gradient Boosting (Character),"Character n-grams
+2-5 chars",0.7033333333333334,0.6967741935483871,0.72,0.7081967213114754

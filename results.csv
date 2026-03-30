@@ -1,0 +1,4 @@
+Model,Accuracy,TN,FP,FN,TP
+Naive Bayes,82.33%,124,26,27,123
+SVM,82.00%,121,29,25,125
+Logistic Regression,82.67%,122,28,24,126
